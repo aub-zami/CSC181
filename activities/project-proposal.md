@@ -42,7 +42,7 @@
 | :---- | :---- | :---- | :---- |
 | **Candidate 1: Campus Study Spot Finder** (Mendoza) | Students who need a place to study or rest  between classes often find library seats left there by absent or missing students. They also have no way of knowing which classrooms are vacant. The time between classes is spent searching for vacant spots which results in students studying outside in the heat. | Room schedules would have to come from the registrar or department offices, while seat and room status would depend on students, professors, or staffs reporting accurately and timely. | There is high access to potential stakeholders since the team can survey, interview, and test the proposed solution with classmates, library staff, and department heads or secretaries on campus. |
 | **Candidate 2: Water and LPG Delivery Scheduler** (Adeva) | Households that depend on regular refills get skipped when delivery forgets them. Someone in the family for example then has to go to the station to follow up, and running out of water or cooking gas disrupts daily routines. | The proposed solution works if a refill station agrees to adopt it and its drivers keep using it. Small stations may see little reason to change a routine that mostly works for them. The testing would also need several weeks of delivery cycle. | There is a moderate access to potential stakeholders since households are easy to reach through some of the team’s own families and neighbors. Refill station owners and drivers are busy and have little incentive to take part in a student project. |
-| **Candidate 3: Iligan Disaster Needs Board** (Adeva) | Donors, volunteers,  and organizations have to repeat the same round of calls and messages every time they want to help. This leads to duplicated donations, while some needs go unmet. Existing platforms such as Dashboard Philippines do not track needs at the item level. | Posts would need verification from barangays or evacuation centers. Real testing depends on an actual disaster or an ongoing outreach drive, which the team cannot easily schedule. Wrong information would also carry serious consequences for all of the affected families and the people involved. | There is low to moderate access to potential stakeholders. Barangay officials, evacuation staff, and affected families are harder to reach and may not have time to participate, but Calvyn’s org connections are a starting point. |
+| **Candidate 3: Boarding House Repair Tracker** (Mendoza)  | Broken faucets, lights, and other electrical faults in boarding houses aren’t tracked or fixed promptly. Boarders report them verbally, and caretakers keep track from memory or handwritten notes, so requests get forgotten or mixed up. Boarders then have to follow up repeatedly without knowing whether a repairman has been contacted or when the repair will happen, and a broken light disrupts studying.  | The solution works only if a boarding house owner and its caretakers agree to take part and keep statuses updated, since repairmen will not use the app. Delays that come from the owner’s approval of parts or technician fees can be shown by the app but not fixed by it.  | There is high access to boarders and caretakers, since Obrenah is a boarder herself and boarding houses around campus are easy to reach for interviews and testing. Owners and repairmen are harder to reach and have not yet been interviewed.  |
 
 ### Selected problem
 
@@ -69,6 +69,12 @@ Boarders near MSU-IIT experience delays when broken fixtures such as lights, fau
 ### Proposed solution
 
 AyoNa is a mobile/web app where boarders report broken fixtures with a short comment and photo, then follow each report through a step-by-step status tracker, from repairman contacted and parts purchased to estimated repair date, ongoing, and complete. Caretakers see one shared list of rooms with open complaints shown first, and can assign a repairman from a contact list and enter the agreed visit date and time, which boarders see as the estimated repair time. This addresses the problem by replacing memory and handwritten notes with a single record that every caretaker can see, so no request is forgotten and boarders can check progress without following up in person.
+
+## 
+
+## 
+
+## 
 
 ## 4\. Stakeholder List
 
@@ -105,6 +111,12 @@ AyoNa is intended for boarding house owners, caretakers, and tenants (boarders),
 ### Expected deliverables
 
 The team plans to deliver a working prototype for mobile devices covering the five in-scope capabilities, together with requirements and design documentation that includes user stories, wireframes, and the system design. The team will also provide test cases with their results, a usability test conducted with the prospective participants (boarders and a caretaker or owner), and recordable applications and push notifications are excluded because the prototype will run only as a mobile web page.
+
+### 
+
+### 
+
+### 
 
 ### Constraints
 
