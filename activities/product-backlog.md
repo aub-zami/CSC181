@@ -2,7 +2,7 @@
 
 ## Team Information
 
-- Team name: JC Systems  
+- Team name: J.C. Systems  
 - Project title: AyoNa  
 - Primary user group for the first release: Tenant  
 - Format: User stories with one use case
@@ -12,7 +12,7 @@
 | Azur, Kurt Renzo H. | Draeze83 | https\://github.com/Draeze83/CSC181 |
 | James Ralf P. Canonigo | cmformeonly | https\://github.com/cmformeonly/Csc181 |
 | Calvyn Kent L. Adeva | calvynddb | https\://github.com/calvynddb/csc181 |
-| Obrenah Z. Mendoza | aubi-zami | https\://github.com/aub-zami/CSC181 |
+| Obrenah Z. Mendoza | aub-zami | https\://github.com/aub-zami/CSC181 |
 
 ## 1\. Interview Summary
 
@@ -31,17 +31,17 @@ We spoke to two stakeholder groups: caretakers (C) and tenants (T). We did not i
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | F1 | C1 | "Kung kinsa tong niduol sa ako, mao ra gyud akong mabaw an." (The only complaints I know about are from the people who come to me.) The tenant's broken ceiling fan, reported to the other caretaker before a vacation, never reached her and was still broken when the tenants came back. | Every caretaker knows about every open complaint, no matter which caretaker received it | Every caretaker sees the same room screen: each room is a box listing that room's complaints and their status, and rooms with open complaints are marked red | F |
 | F2 | C1, C2 | C1: a note she left for the other caretaker went missing, and the other caretaker said she never saw it. C2: "Dapat ibutang gyud niya dira. Pabal on pud ko niya dili kay mag note note rapud siya." (She should put it there, and she should also tell me, not just leave notes.) | Complaints are not lost when one shift hands over to the next | A saved complaint stays in its room's box, with who logged it and when, until the tenant marks it resolved | Q |
-| F3 | C1 | "I expected yours was already okay because the part had been bought." The part had been bought but not installed, and the owner scolded her when she asked whether it was fixed. | Tell "part bought" apart from "repair done" | The tracker keeps buying materials, reaching the repairman, the visit date, "Ongoing", and "Repair complete" as separate steps, and only the tenant's "Mark resolved" closes the complaint | F |
+| F3 | C1 | "I expected yours was already okay because the part had been bought." The part had been bought but not installed, and the owner scolded her when she asked whether it was fixed. | Tell "part bought" apart from "repair done" | The tracker keeps buying materials, “Parts purchased, reaching the repairman, waiting for installation,”  the visit date, "Ongoing," and "Repair complete" as separate steps,  and only the tenant's "Mark resolved" closes the complaint | F |
 | F4 | C1 | "Kung wala ka ninaog adto ga expect kung natauran naka." (If you hadn't come down to complain, I would have assumed you were already attended to.) The complaint had slipped her mind after some time. | See which complaints have waited longest without relying on memory | Rooms with open complaints appear first, and the caretaker can sort complaints by date reported, oldest first | F |
 | F5 | C1, C2 | C1: the owner asks whether things are already fixed, and that is how they track complaints. C2: "Kinahanglan musulti jud ko kay masuko biya pud na si madam 'nganong karon paman ka nagsulti'." (I have to tell her, because \[the owner\] gets angry and asks why I only told her now.) | The owner knows the state of every repair without asking the caretakers  | The owner can view the status of every complaint | F |
 | F6 | C2 | "Wala ko nakalimot pero akong amo nakalimot... nalista nako pero akong amo makalimot ba unya dugay pa makabalik kay naay lakaw." (I didn't forget, my boss did. I had it listed, but she forgets, and it takes a long time for her to come back because she is out running errands.) | The owner keeps track of complaints that wait on her purchase, even while away | The owner can see, from her phone, the complaints that are waiting for a part to be bought | F |
 | F7 | C2, T2 | C2: the caretakers set the repair date themselves when their regular repairman is available, and the longest he takes to arrive is about two days. T2: "Tagad lang daw mi." (They told us to just wait.) T2 was not given a date. | Tenants know when the repair will happen | The caretaker asks the repairman for an exact visit date and time and assigns it to the room; the tenant's tracker shows it as the estimated repair date and time | F |
 | F8 | T1 | "We did not receive any updates, so we had to ask for updates ourselves." T1 said they would stop using the app if they still had to keep following up with the caretaker. | Know the progress of a report without asking anyone | A tenant has a report history listing previous and ongoing complaints, each with its current status | F |
-| F9 | T1 | "We did not receive any updates, so we had to ask for updates ourselves." T1 said they would stop using the app if they still had to keep following up with the caretaker. | Know the progress of a report without asking anyone | A tenant has a report history listing previous and ongoing complaints, each with its current status | F |
+| F9 | T1 | "I would probably stop using the app if I still had to keep following up with the caretaker myself, or if it didn’t speed up the repair process" T1 said they would stop using the app if the app didn’t speed up the repair process. | The app replaces in-person follow-ups instead of adding to them  | Every status change a caretaker makes shows on the tenant's tracker without the tenant asking  | F |
 | F10 | T1 | The broken light took one week to fix, partly because the caretaker was unavailable. The light affected T1's studies, so T1 used a lamp and studied somewhere else. | Report a problem when no caretaker is around | A tenant can use the Report button at any time, and the complaint appears in that room's box on the caretakers' screen | F |
 | F11 | T2 | The ceiling fan took a few days to fix because a replacement fan had to be bought first. The caretaker told T2 it might only be fixed the next day and to wait. | Understand why a repair is waiting | The tenant's tracker shows "Waiting for materials" while the parts for the repair are being bought | F |
 | F12 | C2, C1, T1, T2 | C2 said ceiling fans are what usually break. C1 and T2 both described broken ceiling fans. T1 described a broken sink and a broken light. | Report the common problems quickly and clearly | The report form offers a list of complaint types (light, ceiling fan, faucet, sink, wiring, shared Wi-Fi, other) | F |
-| F13 | C2 | "Dapat ibutang gyud niya dira." (She should put it there \[where it can be seen\].) | Open complaints are visible at a glance | Rooms with open complaints are marked red on the caretaker's room screen, which is the first screen after signing in | Q |
+| F13 | C2 | "Dapat ibutang gyud niya dira." (She should put it there \[where it can be seen\].) | Open complaints are kept somewhere every caretaker sees | Rooms with open complaints are marked red on the caretaker's room screen, which is the first screen after signing in | Q |
 | F14 | C2 | A second parts buyer buys lights and faucets, and the owner buys ceiling fans. On what to buy: "Akoy muingon. Ako pud mucontact sa amo." (I decide, and I also contact the boss.) | Know which part is needed and who is responsible for buying it | The caretaker's first step on a complaint is "Buy materials". Recording which part is needed and who buys it stays out of scope for the pilot (proposal out-of-scope item 3\) | F |
 | F15 | C1 | "Akong isulat ang reklamo ug ang ipapalit..." (I write down the complaint and what needs to be bought.) | The caretaker knows what is broken and what to buy before going to the room | A tenant can add a comment and attach an image to a report | F |
 | F16 | C1 | "I had assumed the repairman had already been told. After some time it slipped my mind." | Know whether the repairman has been contacted | The caretaker gets the repairman's number from the contact list (no in-app messaging) and marks the complaint "Repairman reached"; the tenant's tracker shows this step | F |
@@ -70,8 +70,8 @@ We spoke to two stakeholder groups: caretakers (C) and tenants (T). We did not i
 | US-02 | As a tenant, I want to choose the complaint type from a list (light, ceiling fan, faucet, sink, wiring, shared Wi-Fi, other), so that the caretaker knows which part may be needed. | F12 | Report a problem | Yes |
 | US-03 | As a tenant, I want to add a comment and attach an image to my report, so that the caretaker can see what is broken and what to buy before coming to my room. | F15 | Report a problem | Yes |
 | US-04 | As a tenant, I want a report history of my previous and ongoing complaints, each with its current status, so that I don't have to go down and ask the caretaker. | F8, F9 | Track my complaint | Yes |
-| US-05 | As a tenant, I want a step-by-step tracker that shows each step my repair has reached and when, including the estimated repair date and time, so that I know where my repair stands without asking anyone. | F9, F11, F17, F10 | Track my complaint | Yes |
-| US-06 | As a tenant, I want to mark my repair resolved after I check it, so that my complaint is not closed while the item is still broken. | F3, F1 | Track my complaint | Yes |
+| US-05 | As a tenant, I want a step-by-step tracker that shows each step my repair has reached and when, including the estimated repair date and time, so that I know where my repair stands without asking anyone. | F3, F7, F8, F9, F11  | Track my complaint | Yes |
+| US-06 | As a tenant, I want to mark my repair resolved after I check it, so that my complaint is not closed while the item is still broken. | F2, F3 | Track my complaint | Yes |
 | US-07 | As a caretaker, I want to see every room as a box listing its complaints and their status, with rooms that have open complaints marked red, so that I know about complaints the other caretaker received. | F1, F2, F13 | Manage complaints | Yes |
 | US-08 | As a caretaker, I want to sort complaints by date reported, oldest first, so that I handle the longest-waiting complaint first without relying on memory. | F4 | Manage complaints | Yes |
 | US-09 | As a caretaker, I want to log a complaint that a tenant tells me in person, so that it goes into the room's box instead of a paper note. | F2, F1 | Report a problem | Yes |
@@ -168,7 +168,7 @@ Then the system rejects the file upload and displays an alert "Image file exceed
 Acceptance criteria:
 
 - [ ] Displays a list of all active and past repair requests submitted by the logged-in tenant, ordered from newest to oldest.  
-- [ ] Shows the room number, reported date, fixture category, and current status label for each entry.  
+- [ ] Shows the room number, reported date, complaint type, if one was chosen, or the first line of the description, and current status label for each entry.  
 - [ ] Displays the message "No previous repair complaints found" when a tenant with no report history views the screen (unhappy).
 
 
@@ -177,7 +177,7 @@ Scenario 1: Non-empty report history
 ```
 Given Tenant in "Room 29" has submitted 2 complaints in the past month
 When the tenant opens the "My Complaints" history page
-Then both complaint cards appear with their respective date reported and current status labels ("Completed" and "Waiting for materials")
+Then both complaint cards appear with their respective date reported and current status labels ("Resolved" and "Waiting for materials")
 ```
 
 Scenario 2: No report history available 
@@ -192,17 +192,18 @@ Then the system displays an empty state banner reading "No previous repair compl
 
 Acceptance criteria:
 
-- [ ] Displays a dynamic stepper showing progress through states: "Reported", "Waiting for materials", "Repairman reached", "Scheduled", "Ongoing", "Repair complete".  
+- [ ] Displays a dynamic stepper showing progress through states: “Reported”, “Waiting for materials”, “Parts purchased, waiting for installation”, “Repairman reached”, “Scheduled”, “Ongoing”, “Repair complete”.  
+- [ ] Shows the date and time each completed step was reached.   
 - [ ] Displays the assigned estimated repair date and time once set by the caretaker.  
-- [ ] Displays a warning banner "Connection lost.Showing cached status" when internet access is unavailable (unhappy).
+- [ ] Displays a warning banner “Offline. Showing last saved status.” when internet access is unavailable (unhappy).
 
 
 Scenario 1: Scheduled repair date displayed
 
 ```
-Given a complaint for "Room 204 Ceiling Fan" has been assigned a visit date of "Nov 14, 2:00 PM"
+Given a complaint for "Room 204 Ceiling Fan" was marked "Repairman reached" on Nov 12 at 9:15 AM and assigned a visit date of Nov 14, 2:00 PM
 When the tenant opens the step-by-step status tracker for this complaint
-Then the stepper highlights "Scheduled" as active and displays "Estimated Repair Date/Time: Nov 14, 2:00 PM"
+Then the stepper highlights "Scheduled" as active, shows "Repairman reached: Nov 12, 9:15 AM", and displays "Estimated Repair Date/Time: Nov 14, 2:00 PM"
 ```
 
 Scenario 2: Offline status connection lost 
@@ -210,7 +211,7 @@ Scenario 2: Offline status connection lost
 ```
 Given the tenant's device loses internet connection while browsing AyoNa
 When the tenant opens the status tracker page
-Then the system displays the last known status step with a warning banner "Connection lost — showing cached status"
+Then the system displays the last known status step with a warning banner "Offline. Showing last saved status."
 ```
 
 ### 
@@ -227,10 +228,9 @@ Acceptance criteria:
 Scenario 1: Tenant resolves completed repair 
 
 ```
-Given a complaint for "Room 20 Light" has status "Repair complete"
+Given Room 20 has one open complaint, "Light", with status "Repair complete"
 When the tenant clicks "Mark Resolved" and confirms
-Then the complaint status changes to "Resolved", archiving the ticket and removing the red highlight from Room 204 on the caretaker screen
-
+Then the complaint status changes to "Resolved", the ticket is archived, and the red highlight is removed from Room 20 on the caretaker screen
 ```
 
 Scenario 2: Attempted resolution on incomplete repair 
@@ -241,15 +241,24 @@ When the tenant views the complaint detail page
 Then the "Mark Resolved" button is disabled with a hint reading "Can only resolve after caretaker marks repair complete"
 ```
 
-### 
+Scenario 3: Room stays red while another complaint is open
+
+```
+Given Room 20 has two open complaints, "Light" at "Repair complete" and "Faucet" at "Ongoing", and Room 204 has one open complaint
+When the tenant marks the "Light" complaint resolved
+Then the "Light" complaint is archived, Room 20 stays red because "Faucet" is still open, and Room 204 stays red
+```
 
 ### US-07: View Shared Room Queue 
 
 Acceptance criteria:
 
 - [ ] Displays all boarding house rooms as a grid of boxes visible to all logged-in caretakers.  
+- [ ] Lists rooms with open complaints before rooms with none.  
 - [ ] Automatically highlights room boxes in red if they contain one or more open complaints.  
-- [ ] Displays the status indicator "No open complaints" and a green border for rooms with zero pending issues (unhappy).
+- [ ] Within each room box, complaints are listed oldest first.   
+- [ ] Displays the status indicator "No open complaints" and a green border for rooms with zero pending issues.  
+- [ ] If the device is offline and no room list has been loaded before, displays “Couldn’t load complaints” and a Retry button (unhappy).
 
 
 Scenario 1: Pending complaint highlighted red 
@@ -268,7 +277,14 @@ When any caretaker opens the room queue screen
 Then all room boxes display with green borders and state "No open complaints"
 ```
 
-### 
+Scenario 3: First load while offline
+
+```
+Given a caretaker has never loaded the room list on this phone
+And the phone has no internet connection
+When the caretaker opens the room queue screen
+Then the system displays "Couldn't load complaints" and a Retry button
+```
 
 ### US-08: Sort Complaints Oldest First 
 
@@ -293,8 +309,9 @@ Acceptance criteria:
 Acceptance criteria:
 
 - [ ]  Allows caretakers to update a complaint status to "Buy Materials".  
-- [ ]  Automatically updates the corresponding tenant's tracker status to "Waiting for materials".  
-- [ ]  Prevents setting status to "Buy Materials" without selecting at least one fixture category (unhappy).
+- [ ] Automatically updates the corresponding tenant's tracker status to "Waiting for materials".  
+- [ ] Allows the caretaker to mark “Parts purchased”, which updates the tenant’s tracker to “Parts purchased, waiting for installation”.  
+- [ ] Prevents marking “Parts purchased” unless the complaint is at “Buy Materials”, and displays “Set Buy Materials first” (unhappy).
 
 
 Scenario 1: Status updated to buy materials 
@@ -305,15 +322,29 @@ When the caretaker selects "Buy Materials" on the ticket action menu
 Then the complaint status updates to "Buy Materials" and the tenant's tracker displays "Waiting for materials"
 ```
 
-Scenario 2: Missing fixture category on material status update 
+Scenario 2: Buy Materials on a report with no complaint type
 
 ```
-Given a complaint ticket has an uncategorized fixture type
-When the caretaker attempts to select "Buy Materials"
-Then the system prompts "Please specify fixture type before setting status to Buy Materials"
+Given a Room 301 complaint was submitted with only a description and no complaint type
+When the caretaker selects "Buy Materials"
+Then the complaint status updates to "Buy Materials" and the tenant's tracker displays "Waiting for materials"
 ```
 
-### 
+Scenario 3: Status updated to parts purchased
+
+```
+Given a Room 301 complaint is at "Waiting for materials"
+When the caretaker marks "Parts purchased"
+Then the tenant's tracker shows "Parts purchased, waiting for installation"
+```
+
+Scenario 4: Parts purchased marked out of order
+
+```
+Given a Room 301 complaint is at "Reported"
+When the caretaker tries to mark "Parts purchased"
+Then the system blocks the update and displays "Set Buy Materials first"
+```
 
 ### US-11: Access Repairman Contact List and Mark ‘Repairman reached’’
 
@@ -328,14 +359,14 @@ Acceptance criteria:
 Acceptance criteria:
 
 - [ ] Provides date picker and time input fields on the complaint management card for caretakers.  
-- [ ] Updates the tenant's tracker to display the exact assigned visit date and time window.  
+- [ ] Updates the tenant's tracker to display the exact assigned visit date and time.  
 - [ ] Prevents selecting past dates/times and displays an error "Visit date cannot be in the past" (unhappy).
 
 
 Scenario 1: Valid visit schedule assigned 
 
 ```
-Given Caretaker agrees with Uncle Teteng on a visit for Nov 15 at 10:00 AM
+Given Caretaker agrees with the regular repairman on a visit for Nov 15 at 10:00 AM
 When the caretaker enters "2026-11-15" and "10:00 AM" into the Room 102 ticket and saves
 Then the complaint status updates to "Scheduled" and shows "Estimated Repair: Nov 15 at 10:00 AM" to the tenant
 ```
@@ -353,8 +384,8 @@ Then the system blocks saving and displays "Visit date cannot be in the past"
 Acceptance criteria:
 
 - [ ] Provides a one-click "Mark Ongoing" button visible when a ticket is in "Scheduled" state.  
-- [ ] Changes ticket status to "Ongoing" and updates the tenant's tracker in real time.  
-- [ ] Displays a confirmation modal if clicked before the scheduled date/time window (unhappy).
+- [ ] Changes ticket status to "Ongoing" and updates the tenant’s tracker within 2.0 seconds.  
+- [ ] Displays a confirmation modal if clicked before the scheduled date and time (unhappy).
 
 ### US-14: Mark ‘Repair Complete’’
 
@@ -394,10 +425,11 @@ Acceptance criteria:
 
 | ID | Requirement | EARS pattern | Type | Source | Number agreed with |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| NFR-01 | While the mobile device is offline, the AyoNa app shall display the last-loaded room complaint list and show a visible "Offline Mode" status banner.  | \[State-driven\] | Quality | \[F8,F9, A2\]  | \[C1, C2\] |
+| NFR-01 | While the mobile device is offline, the AyoNa app shall display the last-loaded room complaint list and show a visible "Offline. Showing last saved status."  | \[State-driven\] | Quality | \[F8,F9, A2\]  | \[C1, C2\] |
 | NFR-02 | When a caretaker updates a repair status (e.g., "Repairman reached"), the system shall update the tenant's status tracker within 2.0 seconds over a 3G mobile network connection.  | \[Event-driven\] | Quality | \[F8, F9\] | \[T1\] |
 | NFR-03 | The system shall display all room status boxes, complaint forms, and progress steppers responsively on mobile browsers with screen widths from 360px to 430px without horizontal scrolling.  | \[Ubiquitous\] | Quality | \[F1,F13, A2\] | Team Consensus   |
 | NFR-04 | If an image attachment exceeds 5 MB during report submission, then the system shall reject the upload and notify the user to select a smaller image.  | Unwanted behavior  | Quality  | \[F15\] | System Constraint |
+| NFR-05 | If the device is offline and no room complaint list has been loaded before, then the AyoNa app shall display "Couldn't load complaints" and a Retry button. | Unwanted behavior | Quality  | \[F1, A2\] | Team Consensus |
 
 ## 6\. Use Case
 
@@ -411,10 +443,10 @@ Acceptance criteria:
 | :---- | :---- |
 | Primary actor | Caretaker |
 | Precondition | Caretaker is signed in and at least one active room complaint is active in the shared queue. |
-| Main success scenario | 1\. Caretaker views the shared room screen (US-07) and selects the oldest open room complaint (US-08). 2\. Caretaker reviews the fault details and attached image (US-03). 3\. If parts are required, Caretaker updates status to "Buy Materials" (US-10). 4\. Caretaker selects a technician from the contact directory and contacts them via phone (US-11). 5\. Caretaker updates status to "Repairman reached" and inputs the agreed visit date and time (US-12). 6\. Caretaker marks ticket "Ongoing" when technician arrives (US-13). 7\. Caretaker marks ticket "Repair complete" upon finish (US-14), sending verification prompt to tenant. |
-| Extensions | 3a. Material purchase is delayed by owner:  1\. Complaint remains in "Waiting for materials" status. 2\. Owner views the pending purchase on the landlord dashboard (US-15) and buys parts. 5a. Repairman cancels visit time: 1\. Caretaker re-opens visit schedule dialog. 2\. Caretaker enters updated date/time window (US-12), which updates tenant tracker. |
+| Main success scenario | 1\. Caretaker views the shared room screen (US-07) and selects the oldest open room complaint (US-08). 2\. Caretaker reviews the fault details and attached image (US-03). 3\. If parts are required, Caretaker updates status to "Buy Materials" (US-10) then marks ‘Parts purchased’ once the owner or parts buyer has bought them. 4\. Caretaker selects a technician from the contact directory and contacts them via phone (US-11). 5\. Caretaker updates status to "Repairman reached" and inputs the agreed visit date and time (US-12). 6\. Caretaker marks ticket "Ongoing" when technician arrives (US-13). 7\. Caretaker marks ticket "Repair complete" upon finish (US-14), sending verification prompt to tenant. |
+| Extensions | 3a. Parts are not yet bought:  1\. Complaint stays at “Waiting for materials” status. 2\. Caretaker follows up with the owner or parts buyer outside the app. 3\. When the parts are bought, the caretaker marks “Parts purchased.” 5a. Repairman cancels visit time: 1\. Caretaker re-opens visit schedule dialog. 2\. Caretaker enters updated date and time (US-12), which updates tenant tracker. |
 | Postcondition | Ticket status becomes "Repair complete", room box changes state, and tenant is prompted to mark resolved (US-06).  |
-| Stories covered | \[US-07, US-08, US-10, US-11, US-12, US-13, US-14\]  |
+| Stories covered | \[US-03, US-07, US-08, US-10, US-11, US-12, US-13, US-14\]  |
 
 ## 7\. Story Map
 
@@ -452,8 +484,8 @@ The top eight stories form one complete path: a tenant reports (US-01), the care
 
 | Question | Answer |
 | :---- | :---- |
-| How many Must-have stories, and their total size? | 8 stories: 3 M and 5 S. |
-| Do the Must-haves fit in about 60% of our time for two sprints? | Yes. Most Musts are S, and the 3 M stories are split across the two sprints. |
+| How many Must-have stories, and their total size? | 9 stories: 4 M and 5 S. |
+| Do the Must-haves fit in about 60% of our time for two sprints? | Yes. Most Musts are S, and the 4 M stories are split across the two sprints. |
 | Do the Release 1 stories form one complete path through the core workflow? | Yes. Release 1 has a story under all five journey steps. |
 | Are all L-sized Must-have stories split? | Not applicable. None of our Must-have stories is sized L. |
 
@@ -468,17 +500,17 @@ The top eight stories form one complete path: a tenant reports (US-01), the care
 
 | Story | Problem or goal it addresses | Source finding(s) | Test cases (Week 9\) |
 | :---- | :---- | :---- | :---- |
-| US-01 (Report Broken Item from Device )  | Tenants need to report problems even when no caretaker is available.  | F10 |  |
+| US-01 (Report Broken Item from Device )  | Tenants need to report problems even when no caretaker is available.  | F10, F1 |  |
 | US-07 (View Shared Room Queue)  | Both caretakers need to see the same open complaints when shifts change.  | F1, F2, F13  |  |
 | US-10 (Set Status to 'Buy Materials')  | Tenants need to know when a repair is waiting for parts.  | F11, F14  |  |
 | US-12 (Assign Visit Date and Time to Complaint)  | Tenants need to know when to expect the repair visit.  | F7  |  |
 | US-14 (Mark ‘Repair Complete’’)  | Caretakers need to record that the work is finished so the tenant can check it.  | F1, F3  |  |
-| US-05 (Track Step-by-Step Status)  | Tenants need to see what has happened so far and when a visit is expected.  | F3, F7, F8, F11  |  |
-| US-04 (View Tenant Report History)  | Tenants need to find their past and current complaints without asking a caretaker.  | F8  |  |
+| US-05 (Track Step-by-Step Status)  | Tenants need to see what has happened so far and when a visit is expected.  | F3, F7, F8, F9, F11   |  |
+| US-04 (View Tenant Report History)  | Tenants need to find their past and current complaints without asking a caretaker.  | F8, F9 |  |
 | US-06 (Mark ‘Repair Resolved’ by Tenant)  | Tenants need to check that the fixture works before closing the complaint.  | F2, F3  |  |
 | US-03 (Add Comment and Image to Report)  | Caretakers need to know what is broken and what to buy before going to the room.  | F15  |  |
 
-Gaps found: Caretakers still have to pass on verbal complaints outside the app until US-09 is built. US-05 also cites F17, which has no entry in Section 2\. The table lists the existing findings that support the tracker.
+Gaps found: Caretakers still have to pass on verbal complaints outside the app until US-09 is built. The table lists the existing findings that support the tracker.
 
 ## 11\. Validation
 
@@ -491,8 +523,6 @@ Gaps found: Caretakers still have to pass on verbal complaints outside the app u
 | **The room list has no rule for a failed first load.**  NFR-01 says to show the last saved list when offline, but the draft leaves out what caretakers see if they have never loaded the list before.  | US-07, NFR-01  | If the app is offline and has no saved list, show “Couldn’t load complaints” and a Retry button. Test this by opening the room list for the first time while offline.  |
 
 ### Stakeholder walk-through
-
-\[Show the story map and the top of the backlog to at least one stakeholder you interviewed. See Week 4, slide 31.\]
 
 | Stakeholder | Date | What they said | What we changed |
 | :---- | :---- | :---- | :---- |
@@ -508,13 +538,10 @@ Gaps found: Caretakers still have to pass on verbal complaints outside the app u
 
 | Member | Interviews or analysis | Stories, criteria, or use case | Review or validation |
 | :---- | :---- | :---- | :---- |
-| \[Name\] | \[Contribution\] | \[Contribution\] | \[Contribution\] |
 | Adeva, Calvyn Kent | Led the Section 11 validation review: analyzed the backlog for problems that could be synthesized across stories and requirements, and analyzed the Section 10 traceability table for the problem or goal each story addresses. | Drafted Sections 10, 11, and 12: the traceability table and its gaps; the team review of three problems with fixes and tests, plus the T1 walk-through; and three open questions for Sprint 1\. | Reviewed the story map and ordered backlog (Sections 7 and 8), and the interview summary, needs table, and user stories (Sections 1, 2, and 3). |
-| Mendoza, Obrenah Z. | Conducted interviews with Caretakers C1, C2 and Tenant T2.  | Drafted acceptance criteria and Given–When–Then scenarios for must-have stories  (US-01,US-03,US-04,US-05,US-06,US-07, US–10,US-10,US-12,US-14)) in Section 4 and drafted Use Case for Section 6.. | Refined Given-When-Then scenarios and Story map  (Sections 4 and 7\) to align strictly with Must-have priorities and changes after stakeholder walk through (Section 11).  |
+| Mendoza, Obrenah Z. | Conducted interviews with Caretakers C1, C2 and Tenant T2.  | Drafted acceptance criteria and Given–When–Then scenarios for must-have stories  (US-01,US-03,US-04,US-05,US-06,US-07, US-10,US-12,US-14) in Section 4, drafted the quality requirements in Section 5, and drafted Use Case for Section 6\. | Refined Given-When-Then scenarios and Story map  (Sections 4 and 7\) to align strictly with Must-have priorities and changes after stakeholder walk through (Section 11).  |
 | Canonigo, James Ralf P. | Did not conduct interviews. Analyzed the findings and assumptions to decide the backlog order: MoSCoW labels, S/M/L sizes, value/effort quadrants, and sprints, and checked the Must-haves against the 60% rule. | Drafted Section 7 (Story Map), Section 8 (Ordered Backlog, including how we ordered it and the capacity check), and Section 9 (Definition of Done). | Checked my drafts of Sections 7, 8, and 9 against the Week 4 slides (MoSCoW, value versus effort, acceptance criteria versus Definition of Done) and revised them: used the slides' quadrant names, added a Won't story, and rewrote the Definition of Done so it did not repeat acceptance criteria. |
-|Azur, Kurt Renzo H.|Analyzed the interview log to draft Section 1 (interview summary with role codes) and Section 2 (findings F1–F16 and the assumption log). Matched the findings and stories to the project proposal’s scope and the screen designs from the last team meeting. | Drafted the Team Information table and Section 3: user stories US-01 to US-15, the epics and how they were split, and the “Stories we rewrote” examples.|Checked the drafts of Sections 1–3 against the team’s meeting notes, the project proposal, and the interview log, and corrected the errors found.|
-
-
+| Azur, Kurt Renzo H. | Analyzed the interview log to draft Section 1 (interview summary with role codes) and Section 2 (findings F1–F16 and the assumption log). Matched the findings and stories to the project proposal’s scope and the screen designs from the last team meeting. Ran the T1 tenant survey. | Drafted the Team Information table and Section 3: user stories US-01 to US-15, the epics and how they were split, and the “Stories we rewrote” examples.  | Checked the drafts of Sections 1–3 against the team’s meeting notes, the project proposal, and the interview log, and corrected the errors found. |
 
 ## 14\. References
 
@@ -532,9 +559,7 @@ Select one option:
 | Adeva, Calvyn Kent | ChatGPT 6.1 Sol (High) | Checked whether the problems found in the Section 11 validation were prevalent and among the most pressing or largest. Seven were found and narrowed to three. | Compared Sol's answers against the story and criteria text (Sections 3, 4, 5, 8\) and the findings in Section 2 and the interview log. Kept only problems the text showed. AI was not used to decide how to fix them. |
 | Mendoza,Obrenah Z. | Gemini | Used to structure acceptance criteria with scenarios (Section 4), and writing quality requirements (Section 5). | Manually reviewed all generated scenarios against actual interview findings (C1, C2, T1, T2), formatted scenario titles and confirmed non-functional requirements aligned with our system limits.   |
 | Canonigo, James Ralf P. | Claude Sonnet 5.5 (Medium) | Used Claude as an assisting tool to help organize ideas, improve wording, and clarify some concepts while drafting Sections 7 (Story Map), 8 (Ordered Backlog), and 9 (Definition of Done). The actual analysis, prioritization, backlog ordering, story sizing, value/effort assessment, and sprint planning were done manually based on the group's findings and assumptions. | Reviewed and revised the AI-assisted suggestions manually by comparing them with the Week 4 slides. Checked the MoSCoW prioritization, S/M/L sizes, value/effort quadrants, and the 60% capacity rule. Also made corrections by using the proper quadrant names, adding a Won't story, and revising the Definition of Done to avoid repeating the acceptance criteria. |
-| Azur, Kurt Renzo H. | Claude Opus 5.5 (High) | Used Claude as an assisting tool to draft the Team Information table and Sections 1 (Interview Summary), 2 (From Interview Notes to Needs and the Assumption log), and 3 (User Stories, Epics, and Stories we rewrote). Claude worked from the team’s interview log, the Week 3 and Week 4 slides, the project proposal, and the notes from the last team meeting. It coded the interviews by role, replaced names with roles, drafted the findings (F1–F16) and assumptions, and drafted the user stories, epics, and rewrite examples. The interviews themselves and the screen designs in the meeting notes came from the team. | Reviewed the drafts manually by comparing them with the team’s meeting notes and earlier project submissions (the project proposal and the interview log). Errors found were corrected  personally.|
-
-### 
+| Azur, Kurt Renzo H. | Claude Opus 5.5 (High) | Used Claude as an assisting tool to draft the Team Information table and Sections 1 (Interview Summary), 2 (From Interview Notes to Needs and the Assumption log), and 3 (User Stories, Epics, and Stories we rewrote). Claude worked from the team’s interview log, the Week 3 and Week 4 slides, the project proposal, and the notes from the last team meeting. It coded the interviews by role, replaced names with roles, drafted the findings (F1–F16) and assumptions, and drafted the user stories, epics, and rewrite examples. The interviews themselves and the screen designs in the meeting notes came from the team. | Reviewed the drafts manually by comparing them with the team’s meeting notes and earlier project submissions (the project proposal and the interview log). Errors found were corrected  personally. |
 
 ### Main prompts or interaction summary
 
